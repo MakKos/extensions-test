@@ -1,1 +1,1 @@
-# extensions-test
+Simple test extension
