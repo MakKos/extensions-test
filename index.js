@@ -1,1 +1,1 @@
-console.log("dash - learner (Extensions test log)")
+console.log("helper: learner-dashboard (Extensions test log)")
