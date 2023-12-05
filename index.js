@@ -1,1 +1,1 @@
-console.log("Extensions test log")
+console.log("dash - learner (Extensions test log)")
