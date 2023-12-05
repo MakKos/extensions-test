@@ -1,5 +1,5 @@
 {
-  "name": "Test extension",
+  "name": "Test extension (helper: learner-dashboard)",
   "type": "helper",
   "properties": {
     "user_type": "learner",
